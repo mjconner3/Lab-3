@@ -39,7 +39,7 @@
   <ul>
     <li><strong>Mirrah Jade Conner</strong></li>
     <li><strong>ITMD-361</strong></li>
-    <li><strong>Lab 3?</strong></li>
+    <li><strong>Lab 3</strong></li>
   </ul>
 </body>
 </html>
